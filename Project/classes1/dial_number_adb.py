@@ -1,7 +1,7 @@
 import pytz
 import time
 import datetime
-from ..temp.functions import dial_adb, wait_time, read_serial
+from ..scripts.functions import dial_adb, wait_time, read_serial
 
 
 

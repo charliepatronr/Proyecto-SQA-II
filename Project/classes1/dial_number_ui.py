@@ -1,7 +1,7 @@
 import pytz
 import time
 import datetime
-from ..temp.functions import phone_target, wait_time, dial_number, input_phone_number, number_validation, read_serial
+from ..scripts.functions import phone_target, wait_time, dial_number, input_phone_number, number_validation, read_serial
 
 
 

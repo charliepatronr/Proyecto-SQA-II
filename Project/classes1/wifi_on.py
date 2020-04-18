@@ -1,7 +1,7 @@
 import pytz
 import time
 import datetime
-from ..temp.functions import phone_target, wifi_on_func, wait_time, read_serial
+from ..scripts.functions import phone_target, wifi_on_func, wait_time, read_serial
 
 
 def script_executor():

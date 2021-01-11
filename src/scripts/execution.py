@@ -2,7 +2,7 @@ import datetime
 import pytz
 import sys
 from functions import wait_time, read_serial
-from Project.classes1 import dial_number_adb, dial_number_ui, wifi_on, wifi_off
+from src.classes import dial_number_adb, dial_number_ui, wifi_on, wifi_off
 
 
 
